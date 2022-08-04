@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("萝卜master");
         System.out.println("萝卜5");
         System.out.println("pushtest");
+        System.out.println("pulltest");
     }
 }
